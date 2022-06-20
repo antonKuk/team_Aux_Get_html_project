@@ -1,0 +1,238 @@
+Andrea Bredl  0:00  
+super long. I don't think I'd be really happy with it. I mean, if it's a real client and you need to prove that they actually agreed to something that's really hindered. But otherwise, I can't see anyone wanting to read through our maybe
+
+but maybe that's just me but yeah, should we were thinking a few things like a if I understand everything correctly now and I get confused with George like all the time we're having a first real meeting with him on Friday right, like as you know, plenty.
+
+Zachariah James Turangi Potae  0:51  
+I have a confused as I don't know if he got like the kicking the day's like stuff or whatnot but yeah. Yeah.
+
+Andrea Bredl  1:06  
+We we do group meetings. I think on Monday, we're gonna do a risk assessment. That's a huge group.
+
+Zachariah James Turangi Potae  1:18  
+Okay. I thought we were doing like suddenlink before then. But I guess I thought we had to like prepare like the risk matrix and stuff for Monday, so risk register. Sure.
+
+Andrea Bredl  1:42  
+We need to prepare it before we have the meeting with him. So I think we have but there was so much they, I thought we had a meeting with him first where we as the whole cohort can think about risks and then we have one as a small group.
+
+Yeah, I agree with you. changes all the time. I think that's the only project protects investment very confused. So did you want to guess it would be good to come up with each one of us what we want to achieve today and then how we want to attribute the work so that everyone can just do that.
+
+Zachariah James Turangi Potae  2:58  
+Sounds good? Sounds good. Go ahead. So my understanding was we were preparing a risk register for Monday's meeting. That will mean to like, like he gave us the option of discussing it after yesterday's class. Sort enough we work on that maybe. Because I think we have to provide some risks and then he'll have a look at it and if is not enough, he would also provide some of his own.
+
+Chi Ling Crystal Chan  3:42  
+Literally trying to understand what we are trying to do in this time, so that perhaps we can find out what kind of tasks we need to do. Then we can allocate back because I was just looking at it, maybe we should have developed my users assigning time origin story, and then like, do all that. What do you think because we also have Kanban board to do of course, yeah. Just work on some sort of products and we can we can work the rest of everything else on top of it. Right now we don't have it. Do we have a substantial project that we want to do that for that they want to do that we can which is like that what you say the teacher? But how about maybe we start by writing some user story. Okay.
+
+Andrea Bredl  4:35  
+Yeah, I think one thing, I mean, that's sort of confusing to me because I thought we would have a meeting with him and be able to ask him some more questions regarding the actual product, right? Because for me to run a user story without knowing what the target age group is. Is, is completely different when it's for adults when rather than when it's four or five year olds. Yeah. You know what I mean?
+
+Chi Ling Crystal Chan  5:08  
+Yeah, it seems because they say the weather He wants us to do like be credited for last, actually, we ordered a product that we assume whatever we want, or he's going to give us a criteria.
+
+Andrea Bredl  5:20  
+We can't assume because he's the product owner. That's what he said. But clearly,
+
+Chi Ling Crystal Chan  5:29  
+that that may be Monday, we tried to schedule like a quick game to clarify it. Do you think that what you say it is Monday, maybe Monday? And maybe Tuesday, Wednesday, are you available for a quick hop in our meeting, so we can clear that out? So, I mean, we could have way up to Friday, but I'm just worried about the timeline,
+
+Zachariah James Turangi Potae  5:59  
+isn't it like oh, that's that's a good yeah, we never really got a opportunity. ask them more questions about the project. So yeah, probably be a good idea. Yes, another meeting of them. ask people questions. So in get some more specific user stories, I guess. So
+
+Chi Ling Crystal Chan  6:27  
+what do we want this take a look at the assignment document. It's all spread around.
+
+Andrea Bredl  6:41  
+So I think the things that we need to get done is we need to get the stuff. We need the user stories. We need a budget we need the roles. We need a timeline and with the budget we also need to come up with how many hours of which team member that's because it kinda needs to go along with the roles in a sense
+
+Chi Ling Crystal Chan  7:11  
+and but first of all, we need a user story to work all around it, most likely will.
+
+Andrea Bredl  7:19  
+But yeah, so I do I do. If would you guys i'll be available on Monday that we can just ask him for a short catch up and even if it's just 15 minutes, but we just sit down with him and go like actually we don't even understand quite what we should be going off then.
+
+Zachariah James Turangi Potae  7:39  
+Absolutely.
+
+Chi Ling Crystal Chan  7:46  
+I think just know what you're right. What what is that right he put it down with the task that you just named name it and just made me put aside. It might be helpful like when we were we want to ask him questions on Monday.
+
+Andrea Bredl  8:01  
+Yeah, we meant to like write minutes of this meeting, right now.
+
+Chi Ling Crystal Chan  8:08  
+Not now. Now look at I can't figure it out. But yeah. Because we have a really great tech play anyway, so just look for it. Right away.
+
+Zachariah James Turangi Potae  8:20  
+I've got the awesome AI running. So that's like, generating tics
+
+um, I just I started like eight months ago, so it's like, missed a bit of it, but that's what I call lashes. Not a hair that's kind of a weird words but sure.
+
+Yeah. So just one thing this Kanban board so I've got is different happy with using Trello. Yeah. Yeah. Okay, cool. Because I think for like the Kanban board, usually they have the user stories on it. And then you sort of follow along the cannon board. Will scrum ban whatever. So like getting the user stories first. We good so I can fill up the Kanban board.
+
+Andrea Bredl  9:27  
+Yeah, I mean just like in theory, we could make the 15 Minute catch up on mundane tasks, because someone has to organize that stuff. And that's not really a story. But then once we get to, and I don't think the budget will ever be a story. But it should be on the Kanban board. Then we have the actual user stories of hope this is what our software should be doing.
+
+Chi Ling Crystal Chan  10:04  
+And we can like the follow up in a cup and after the user story, like what kind of function we need, then we can move on and on like that. I think that usually the first one would be always be used as you said requirement and all that.
+
+Andrea Bredl  10:21  
+Yeah. Cool. Yeah, I'm not I'm not 100% sure how that works. And then when we actually don't really develop anything so is that all just gonna sit in in in the backlog? Or?
+
+Chi Ling Crystal Chan  10:35  
+I'm not sure I could give you guys an example because like last year when I did the level five, we have like our pieces palaces project that we don't need to write any code. So you just have to produce like a free session report about the product that we came up with. Well, of course, that time we have the camera, everything like the idea or the user story versus like we kind of try to make a product. So it's literally just like a report of it. So it's excluding the development part. But I guess in project development or in any, like software development, there's a planning stage. So but of course, as a developer, you don't go to that. So right now we have to do that.
+
+Andrea Bredl  11:22  
+But what we would put in I guess, is the wireframes. Because eventually we have to come up with wireframes. Right?
+
+Chi Ling Crystal Chan  11:28  
+Yeah, we have that too. I can like to actually show you guys. It's like it's also important, so we have like, not one but to do free inspection of recall. For so it's like maybe 1212 or 20 patients per report. I turn to my other computer. I'll be back
+
+Andrea Bredl  12:01  
+I think that's good. What do you think that is like, should we then put like, everything into the Kanban board? Yeah, management stuff.
+
+Zachariah James Turangi Potae  12:17  
+Yeah, sounds good. I mean, not sure the best like formatting for this as if there's like, a better way of doing this. I'm not sure yeah, definitely have to look at that
+
+Chi Ling Crystal Chan  12:41  
+I share my screen so that's one of the projects so we have to develop all these documents. The fourth one is to do in the video. Order three is all groups costs. So just let me show you the ones the first one I did so long ago but I could have actually
+
+been working so the best hospital so by the way, so I'll show you what I have my son like when we have the group meeting. So you literally just wrote down what you're talking about what tasks you have assigned, so you don't have to like jot down minute by minute as well. Here's what I did. So like we're at that moment, we do an investor project. So we have to work on the statements and all that and then whoever they show up, the market attended and then everything else is funded. And just like this, that's all they wanted to know that you are progressing that you are doing something doesn't have to feel like you're really like a secretary you have to roll out every single day. And there's part of the project so we have to like work out what what what what well just like just like that, but it's not filled.
+
+Andrea Bredl  14:27  
+No, I think we we've probably all done a project similar to that. Analysis.
+
+Chi Ling Crystal Chan  14:34  
+Yeah. So I will say one. When you say that you're not sure what you're going to do the outside. We have actually done this before, but it just of course, you know, more discoveries. We have the agile, way more agile, actual agile. So it's the same thing. We're not actually developing actual developing anything by just saying, you know,
+
+Andrea Bredl  14:54  
+do we need to come up with all the written stuff of the requirements stuff? And all that, like we can, it's not a problem. The person feels like we've done it so often, but we can do it again.
+
+Chi Ling Crystal Chan  15:13  
+I guess it just depends on what you want to throw at it. And to be honest, like, you don't mean like to warm up the mark to hire let's say no, if you have a user role. And then you have all this like non functional requirements and user story we you know, I can send you this form and you have this all this website, research against whatever if you're doing a website or you're doing an app and you have to get a lot of air for doing the market research. And then
+
+Andrea Bredl  15:40  
+do we do we have to do do we have to do that? Because in this case, we're doing it for a client so we really have to do a competitor analysis,
+
+Chi Ling Crystal Chan  15:51  
+that maybe not you can I'm just saying that you have to practice I think there's no I don't think if you put on like for example you do definitely estimation and up to two arrays and like just like by just waffling it's like something like that that will be there for the app. And then they probably don't need to pass by because I don't think he had mentioned it. So yeah, I think this time is more focused more on the Agile way. So they want us to do later on. They want us to do Scrum stand. They want us to have a role. So
+
+Andrea Bredl  16:31  
+we wish to clarify that with him when he wants to functional and non functional requirements. Whether it's supposed to be a task incumbent or whether it is supposed to be yes at the start. Not 100% Sure. Maybe it didn't read enough what we all have to end in at the end. To be fair, I have been
+
+Chi Ling Crystal Chan  16:54  
+asked to help you put down the question, Jeff, why we used to get great if we can get up early this week, so that we can hear that.
+
+Andrea Bredl  17:06  
+So what are the deliverables? Is there a PDF and stuff included? Well, is it mainly everything in Trello and that doesn't need to be so much that I'm just trying to look that up. Now. Sec what's in it idea.
+
+Zachariah James Turangi Potae  17:27  
+I'm looking at off as well trying to figure it out.
+
+Chi Ling Crystal Chan  17:31  
+Writing a report when you have a quite easy to find reference. So it's about like writing about the things it should be mid height minimal but of course you sort of had to write something but it will be all right. Yeah. But it just that we need to understand what you want, what kind of job or what kind of cost me to take the box.
+
+Andrea Bredl  17:56  
+So I guess there's a written assessment but that's only about Angel. Yeah. Okay. So that is nothing to do with the assignment.
+
+Chi Ling Crystal Chan  18:15  
+And maybe it's good to we can think about I wouldn't look at it you can do it individually or they can be handed out as a group called I just want I'm not sure about the diamond seems like we might have to do it. But then if you look at the project in component that he had wrote about my customer reciting that user story aside parity, and the Kanban board need to work on planning issues Product Demo, which is I guess, would be the wireframe. So like something like that. Maybe we can we can try to do it.
+
+Andrea Bredl  18:59  
+So submission. As a team, you will be assessed on the effectiveness of your collaboration and teamwork and on the team's ability to adapt to the requirements of the customer Evidence Requirements. So that's what we really need. photos or screenshots of chord progressions taken at the end of each stand up. Link to trilling for it to be supplied to meeting notes from stand ups with the impersonal zone sprint planning meetings. Retrospective meetings. Meeting Notes should include progress, detail of locking distance, solutions, time alterations, and recently a link to a screenshot of software repository. tests such as test final outcome as per customer requirements, project related, project related documentation or otherwise stated whatever that means. So, project related documentation is probably those requirements and like all the other stuff that you just mentioned before.
+
+Chi Ling Crystal Chan  20:13  
+But anyway, like, really early on, we should just first of all everything I will start off with that user story and whatever questions that we have regarding the assignment, I think Monday or try to go as early as we can either like Monday or Tuesday is not available, and maybe you'd like to get to get home even and talk to him. I think that will be the best solution right now for us. Yeah, otherwise we kind of like going nowhere because the customers
+
+Andrea Bredl  20:44  
+Yeah. No, but that's good. That's good.
+
+Chi Ling Crystal Chan  20:49  
+It's good. Great that you saw that? Yeah, we know the next step. What we're going to do?
+
+Andrea Bredl  20:57  
+Yeah. So what would we all agree now that we expect that we have to do one of those business analysis reports in some form to end in for that project is that one thing that we'll clarify on Monday? We don't have to do it. And we might as well not but when he does,
+
+Chi Ling Crystal Chan  21:24  
+we can just clarify. The one that we just clarify. And then for now, the conclusion. Can we just clarify with Josh and then with any question that you have, and then we're just going to grab him and try to clarify it then maybe we again in the midweek or after the meeting, but depends on the type and we can begin to see that actually to do this.
+
+Andrea Bredl  21:47  
+Yeah. And then if you want to say anything, I know your mic is not working but you can always write the comment. Um should we then maybe, just so we can populate the Trello board someone put like risk management, meeting. More like we could do? I don't know if Trello allows that now or not. But what you sometimes hear is different tabs that are connected to each others. And so it's basically a user story and it has different tasks attached to it. And one could be the risk management meeting could be one task, then the risk management, preparation or maybe within like, external meeting, then the meeting with the customer and they might be meeting halfway through the project. Do we need to change any of the meeting risk requirements? Yeah, I'm doing was just saying as well, we can do a couple of docs like risks and roles. And yeah, we will need the roles. I guess. If we're one thing that would be really good is to if we have to do daily stand ups, I think we at least have to fix them. We need to find a time for all of us to exhibit either for like five minutes. Or give each other a call for five minutes maybe in the morning or something to those screenshots
+
+Zachariah James Turangi Potae  23:35  
+this I can do morning see it to
+
+Andrea Bredl  23:38  
+me because it's not like we're actually working. Yeah.
+
+Chi Ling Crystal Chan  23:46  
+I think you just have to put it down as if you have I mean, they're not gonna like check, check. Check you Right? Like, it's not like work right? You gotta meet it just you have to put it down. Like market just like fill that out later on at the end, you know?
+
+Andrea Bredl  24:10  
+Yeah. Good So yeah, maybe in our own time, we can just all go into Trello and just come up with one task and we just throw them all in. And then we'll need to come up with different roles. Is Antonio saying I think we need to rotate the roles as well. Apparently, someone has to be scrum master times and stuff but always someone different.
+
+Zachariah James Turangi Potae  24:47  
+So this way of doing that we do like a Excel spreadsheet, maybe.
+
+Chi Ling Crystal Chan  24:52  
+But do you know where it's actually like we need to swap out by the way this keeps going down and there's a lot of believable going good. Where it says that we need to to swap in a roll
+
+Zachariah James Turangi Potae  25:05  
+George himself constantly Yeah.
+
+Chi Ling Crystal Chan  25:10  
+Yeah, but you know, look at the timeline. We are like about maybe four weeks away. I mean, we can say that we swap but even if we don't swap then it is up to another
+
+Andrea Bredl  25:19  
+thing is no. The thing is that we have meetings with him as the product owner, and he expects a different scrum master each time.
+
+Chi Ling Crystal Chan  25:30  
+Yeah, no, we can't do that. But
+
+Andrea Bredl  25:33  
+yeah, that's all it means. And then I guess that's just purely for the meeting sessions with him. As a team, it's not for any other
+
+Chi Ling Crystal Chan  25:48  
+I guess. Yeah, we can take that out. That would be just to do the back gel style, but we actually do the work. We could just do whatever, scientists. That would be fun. Oh,
+
+Andrea Bredl  25:58  
+yeah. Yeah, I don't want to rotate the tasks. Yeah, I think on Trello we can then pick the different tasks and we can always have the section peer review, and that's when someone else goes over that task, and the deliverables and if we need to change anything that we do, just like we would in any other group project, I suppose.
+
+Sounds good to me.
+
+So until Monday is anything that we need to
+
+Zachariah James Turangi Potae  26:43  
+do? Yeah, I think SWAT interventions like doing the rooks I think. I think we were meant to be doing that before Monday. But
+
+Andrea Bredl  26:57  
+we would you guys have time. Like, say it 230 Because it three is we're starting at three or none. Would you have time at three then we could do a risk management meeting together for like half an hour and just brainstorm the risks. Yep. Sounds good.
+
+Chi Ling Crystal Chan  27:22  
+George, so maybe not not that we're sorry.
+
+Andrea Bredl  27:27  
+That's fine. You know, the three of us could maybe do the risks. And then you can just go over them. And anything that that you still find
+
+Chi Ling Crystal Chan  27:39  
+what I found and then I can do my part. Anyway, so we'd like just what do you say with right is great about what like the project or something like that, which is great. Okay,
+
+Zachariah James Turangi Potae  27:54  
+for the rest, we could just enter into that shared Excel sheet. So we could all see each other's for us.
+
+Chi Ling Crystal Chan  28:07  
+I could add something in maybe over the weekend. So yeah, I mean, everyone can we can answer. I Donald Trump.
+
+Andrea Bredl  28:18  
+Yeah, I mean, I think eventually, we probably need to talk about the risks and see how we mitigate them. Or whether we agree with
+
+them. That's fine. Okay. Should we set up a time to catch up and just so
+
+if I understand it, right, I've planned would now be to try to catch George sometime time on Monday, and then ask him some more stuff. And then we can distribute some of the tasks and Trello to each other. And I think Friday we'd have the official meeting with him as well. So we probably need to find one more time where we meet up together just to talk about things.
+
+Chi Ling Crystal Chan  29:17  
+I mean, I could do like maybe Monday night by after like, I could do Monday life is easier, but thanks to flash up if we managed to get a meeting with Josh on Monday. If not, then just replay by the book so we can talk about it after. We can set our time after we met with Josh and to see what we can grasp. Like during that meeting. Like most importantly, is the user story so yummy.
+
+Andrea Bredl  29:47  
+Yeah, we could do it maybe a morning call or something with you Monday, right after the meeting before we go into the other Yeah, yeah. Thank you the half hour Yeah, probably.
+
+Transcribed by https://otter.ai

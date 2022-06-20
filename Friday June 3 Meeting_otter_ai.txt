@@ -1,0 +1,121 @@
+Andrea Bredl  0:15  
+I don't know exactly how we want to do it. I might go into the budget. So maybe you want to start?
+
+Zachariah James Turangi Potae  0:28  
+Sure. So at the moment, we're just sort of use the rolls they were showing the previous meeting on the control work. I think we still have to go through, see what roles actually needed and
+
+Unknown Speaker  0:48  
+yeah
+
+Unknown Speaker  0:52  
+to share the code it's just a matter of. One of you it sounds like a donation game right, so it just it's just a matter of sharing. Yeah.
+
+Andrea Bredl  1:37  
+Because I don't know what we've made in the project, but it wasn't your story
+
+Zachariah James Turangi Potae  1:50  
+we can just Fillory filling in names and emails and stuff, we can discuss it nationalists
+
+Okay, cool. Sounds good. Basically,
+
+Unknown Speaker  2:26  
+come up with an approximate hours. So, in most of the things is estimated hours of the week because we don't even know.
+
+Zachariah James Turangi Potae  3:20  
+True computers
+
+Andrea Bredl  3:26  
+real software company would like at least the hardware okay Yeah, so like this. The biggest developers, they would also divide that up though as well. And then we would reallocate the hours basically probably take some development hours
+
+Unknown Speaker  4:53  
+I'd be looking at approaching I would actually be a project manager solution rather than was nice this project Yeah, that's so they might be a couple other roles.
+
+Andrea Bredl  5:41  
+So the general gist of the budget at the moment, so we'll need to go for in general for the UX and UI designer. I didn't think that we should make more than 60 hours I assume.
+
+That is the total. Potentially the DevOps is maybe not as easy as three hours every week.
+
+Really. Like the last night of so we will still be playing with those numbers.
+
+Unknown Speaker  6:43  
+And it will also change when you when you have the other parts do
+
+Unknown Speaker  6:52  
+you see anything that we would have to do I've told you we haven't really yeah
+
+Unknown Speaker  7:30  
+the project starts so some of that stuff it's also because each of the tasks that you use actually have tasks as a planning and design and so on. So once in your release so we'll have milestones, meetings so you really need to write the tasks that you would use.
+
+Zachariah James Turangi Potae  9:09  
+17 at the moment
+
+Unknown Speaker  9:16  
+tweaking around the bed so let's go.
+
+Zachariah James Turangi Potae  9:55  
+You I put high cuz just like its current pilots code and that I think a lot of people free careful. Even if like they have something really minor, like maybe three four years ago the most still come to the office, but nowadays they might play it safe and stay home. So that was sort of my assumption
+
+Unknown Speaker  10:38  
+okay and this is what we would be doing so what I'm doing now is what we're doing as I'm going through and making judgments which computer breaks down
+
+Zachariah James Turangi Potae  11:15  
+the developers, computer
+
+Unknown Speaker  11:18  
+developers that shouldn't actually that shouldn't actually be because computers break down
+
+Zachariah James Turangi Potae  11:35  
+right so the likelihood will be green
+
+Unknown Speaker  11:46  
+what's the severity? If it does? So and also develop. President it's going to be a big risk at the start because we've got the budget. The budget should be pretty much nailed down. So you wouldn't have a read and
+
+Unknown Speaker  12:40  
+read the severity of the impact of an eye even though you know these changes. In the other great thing to say you're anticipating that I'm going to make the changes so you're already already anticipating a change. You shouldn't be anticipating changes even though you know that when they do maybe this
+
+Zachariah James Turangi Potae  13:19  
+makes sense? Makes sense.
+
+Unknown Speaker  13:22  
+So realistically it shouldn't be a change to the scope.
+
+Unknown Speaker  13:40  
+You want us to take it out they will kill off
+
+Unknown Speaker  13:57  
+this agreement because it shouldn't be anticipated. So. Are alone which
+
+Andrea Bredl  15:03  
+one god that's why I don't know how
+
+Unknown Speaker  15:06  
+sorry. To the size of because of him being silent on software
+
+Unknown Speaker  16:23  
+that can go as well. Yeah, I didn't know because I was kind of researching some of the rest I mean, that is a very real
+
+Unknown Speaker  16:40  
+horrible statement Shall we get closer to getting it's not actually really appropriate. To be. Down again Good morning just trying to get a consistency in ordinator just widen the field just now so we're ready to go starting. As we start going along. We have to keep checking news on a regular basis to see your opinion
+
+Unknown Speaker  19:02  
+or risks. So this is a loving person. I will look at risks. For example. Because when it comes up any Chinese we're going to start making changes and we shouldn't be any issues because we can empty and those others will be your problem you've got you really need to
+
+Zachariah James Turangi Potae  20:07  
+know of course yeah.
+
+Andrea Bredl  20:34  
+Other meeting was going next Friday. It really sounds good. When will it be good to have again, Chad and the Kanban board. And kind of the timeframe for I mean with the Gantt chart that will give the time frame time frame and all that kind of stuff
+
+Unknown Speaker  21:08  
+guys everyone back and go through their risks and they will say oh we all have like I just did
+
+Unknown Speaker  21:36  
+yeah, so that would have been next Friday.
+
+Unknown Speaker  21:38  
+Thank you guys. Design
+
+Unknown Speaker  22:20  
+Thank you
+
+Transcribed by https://otter.ai

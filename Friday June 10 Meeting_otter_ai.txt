@@ -1,0 +1,355 @@
+Andrea Bredl  0:00  
+When the same that normally you don't have a development task, but you'd go into the features and stuff, but we're not really at that stage. So, I've just taken all the milestones basically or Gantt Chart topics and put them in and then added some additional ones. We still need to distribute the roles. In my opinion, we could just pop in the names randomly because it really doesn't mean anything. Okay.
+
+Hello we've got young into
+
+Unknown Speaker  1:02  
+sort of, sort of tied up with the other sort of good
+
+Zachariah James Turangi Potae  1:15  
+Well, today, I guess we're just looking to distributors will the work workload we have just announced our team so what we did, Andrea is good at logo design for us. We've also got a few things put up in Trello board that we're just going to look at now.
+
+Andrea Bredl  1:52  
+It's really difficult to hear you. I couldn't understand what you just said. You again. Yeah, we think so. Do you want to share your screen, migrate and show
+
+Zachariah James Turangi Potae  2:07  
+me? He goes see this fun
+
+Andrea Bredl  2:27  
+Yeah, I can see it. Just George so you know, I'm still experiencing some trouble with this like, typing. And yeah.
+
+Unknown Speaker  2:47  
+So, what methodology are you actually using for this game? Well,
+
+Zachariah James Turangi Potae  3:01  
+we were, we just discussed the agile methodology, I think. But um,
+
+Unknown Speaker  3:10  
+so, which methodology? The reason why this way I see it, need to you need to have some explorations of the stuff, you've got titles, but I think you really need to have tasks under those titles. And because at the moment that sort of just look straight, like a straight waterfall, so
+
+Andrea Bredl  3:45  
+I guess for me, some of the last thought is that such so much, but I would put the development and testing to get there and it's because it is going to be iterating.
+
+Unknown Speaker  4:06  
+That's what I mean. I need to see some iterations is what I'm probably saying to you guys so that I can see that you're fully because at the moment, it looks like you've got that you've just got the title and not what's happening in there. And how do you test how do you how do you plan to design develop test? So each of you would have done some of that. So the budget the risk register and logo design in wireframes. Now that that's the load of sorry, the design stuff should be under design, and then steps underneath. And same on the development and testing. Are you developing the whole lot in one and a few hours and that timeline doesn't quite
+
+Andrea Bredl  5:08  
+know the development and testing something went wrong in the times that we
+
+Unknown Speaker  5:18  
+need to look at because I think that should be at least should have a lot more in the way of is it sort of lots more like a waterfall need to sort of make it more iterative.
+
+Zachariah James Turangi Potae  5:36  
+Okay, okay.
+
+Andrea Bredl  5:40  
+That sounds very much to me as if you want like epics and then stories and then tasks and I thought we weren't, like that's not what the Gantt chart is necessarily for.
+
+Unknown Speaker  5:52  
+In this case, I do want some of that stuff in there because it shows me you are following an Agile process. Okay, that's what I'm saying. It's, as it currently is, doesn't show that you've actually I know that in your mind, you've got it, but it needs to show it on this on this chart. So just some of the tasks and he can under each of those headings is what I'm saying. Okay, thank you. Okay. And that needs to finish by next week. So anything that was probably, I'll ask you to work on the most because next week, obviously straight up and the Gantt chart needs to be completed. Okay. Okay. Cool, thank you.
+
+Zachariah James Turangi Potae  6:57  
+logo here that we sort of decided or, and dread and I sort of voted on this one.
+
+Unknown Speaker  7:10  
+What are the options? Remember, I'm the buyer.
+
+Zachariah James Turangi Potae  7:15  
+Um, I haven't been able to get around to designing one yet. We've got another one here.
+
+Andrea Bredl  7:24  
+Basically, the examples that we've got at the moment if you did something completely different would be really helpful to get a better idea of what you have in mind.
+
+Unknown Speaker  7:36  
+I liked the light blue light blue light blue color, but I like the top reading.
+
+Zachariah James Turangi Potae  7:48  
+Like this big blocky sort of, Yep. Cool.
+
+Unknown Speaker  7:54  
+The the dash, did you have the lowercase and uppercase so the tag HTML tag? Yep. Okay.
+
+Andrea Bredl  8:07  
+I didn't catch that.
+
+Zachariah James Turangi Potae  8:09  
+So we like
+
+Unknown Speaker  8:12  
+it'll be on the the HTML is an HTML tag
+
+Andrea Bredl  8:46  
+but then you want the the symbol
+
+Unknown Speaker  8:55  
+symbol looks quite good actually. So was your little symbol and the ticks like this?
+
+Zachariah James Turangi Potae  9:08  
+Oh, cool.
+
+Unknown Speaker  9:10  
+So it looks like HTML tag
+
+Zachariah James Turangi Potae  9:25  
+so which some would you like to do like the infinity or the light bulb?
+
+Unknown Speaker  9:30  
+The Infinity
+
+Zachariah James Turangi Potae  9:33  
+Cool. Awesome. Cool.
+
+Andrea Bredl  9:49  
+Yeah. We can maybe go back to the control and just throw the budget one more time.
+
+Zachariah James Turangi Potae  10:05  
+So this is sort of what we've worked out. Last week. No budget could look like our initial budgeting could look like so we've got all the
+
+stuff you've got the hours that the they might be working how much you would be paying them per hour and the total to be paid for them. Over that time. We've also got software and hardware costs as well.
+
+Unknown Speaker  10:45  
+Could you increase it gradually into
+
+Zachariah James Turangi Potae  10:49  
+phones? Yeah. Okay, yeah. Phones.
+
+Andrea Bredl  10:58  
+So many phones.
+
+Unknown Speaker  11:01  
+You want to you want to low end low stick, like before, and then maybe something that's like a team is 10 or something as topping war? Is 20 as a topping way what we're doing is we're saying we're testing scales scales on a topic, as well. Sounds good.
+
+Unknown Speaker  11:43  
+Yep. And do have a look at a few more, they might need more hours somewhere as well. So try and get as close to that 100 as you can.
+
+Zachariah James Turangi Potae  11:58  
+Yeah. I guess we sort of gave ourselves a bit of leeway just in case like something unexpected happens.
+
+Unknown Speaker  12:07  
+So yeah, there's nothing wrong with having a team. Team.
+
+Zachariah James Turangi Potae  12:12  
+Team. Yep. Cool.
+
+Unknown Speaker  12:16  
+They knew what to actually do it. Say that as well as a note down below Yep, sounds good. It looks good.
+
+Zachariah James Turangi Potae  12:48  
+Nothing much dead serious. I think
+
+Unknown Speaker  12:51  
+it's pretty
+
+Zachariah James Turangi Potae  12:54  
+cool. What else?
+
+Unknown Speaker  12:59  
+Have you added any need to add risks?
+
+Andrea Bredl  13:06  
+We didn't add anything because we haven't really done anything yet.
+
+Zachariah James Turangi Potae  13:12  
+I think we just need to rearrange this right. So prioritize it. Yeah. Okay. Cool.
+
+Unknown Speaker  13:31  
+Boy by next week, you'll need to have the also the file register the file register up and running the documents because what's going to happen is you're going to change your Gantt chart and you'll say there's version one and the date and so on and show where it's placed.
+
+Unknown Speaker  14:00  
+And possibly the budget will need to be returned. When I get when I try to do that make sure in what's your any of your meeting minutes and stuff. You file those in here as well. Yep. Okay. It comes quite deep. And next week, I'm going to introduce you to change and a change request and what the process of handling change requests. Okay,
+
+Unknown Speaker  14:44  
+next week, I'm gonna introduce change to everybody. In we'll talk about how we judge and probably easiest way to manage your site and also any decisions that are made from our meeting meetings or decisions
+
+Zachariah James Turangi Potae  15:10  
+Okay, cool.
+
+Andrea Bredl  15:15  
+We did some stuff in the in the Trello board as well.
+
+Zachariah James Turangi Potae  15:27  
+So this is our Trello board. At the moment.
+
+Unknown Speaker  15:32  
+Just a little bigger
+
+Zachariah James Turangi Potae  15:45  
+we've had a few things added to this. But I think mostly we just had stuff like all the tabs on the control work just had those in here. Just
+
+Unknown Speaker  16:01  
+considered, each having a different color a few sectors some tasks, Andrew Mentone did some so that you know who's been doing what we're just having the blank blank.
+
+Zachariah James Turangi Potae  16:23  
+Yeah, I don't even know how to do that.
+
+Andrea Bredl  16:28  
+Like it seems what will be nice will be to actually attributed to roles rather than people. That's why I didn't put anyone
+
+Unknown Speaker  16:39  
+putting a color and now you know who you assign the role to. That sort of makes it just makes it a little easier to say yeah, for a client and if they say oh yes, so you will be to this area and leisure that area then they can point the questions to you just having a blank like then it sort of tends to be just looks that same.
+
+Zachariah James Turangi Potae  17:12  
+Yeah, sure. I didn't even know you could change the color. Okay, that's cool.
+
+Unknown Speaker  17:16  
+Right? remember rightly, go down to that label. Cool. You choose a color and then you do it to the label anyway.
+
+Andrea Bredl  17:35  
+Yeah. And with the labels, we don't Yeah, it's a good idea. Cool.
+
+Unknown Speaker  17:44  
+He allows it sort of shows his hope. And again, when you tried to get in chat you change some of these tasks.
+
+Andrea Bredl  17:58  
+Yeah, yep. That's
+
+when would you expect the wireframes if you've got no we don't
+
+Unknown Speaker  18:15  
+know, at least the wireframes by next week. We could go the week. But in your styling to the weeks after maybe you're going to be listening to change requests. So even if it's just some basic wireframes that I'd hate to have. I don't agree with
+
+Andrea Bredl  18:37  
+it. When you say they don't have to be working, you want a click dammit in.
+
+Unknown Speaker  18:47  
+They can be dummies but by the time we get to the end, they should be they should be here You said they would look on screen with a couple of likes just to make it look like what it would look like if it was making. This moment they could be just drawings rather.
+
+Andrea Bredl  19:11  
+Well, but drawings want to have links, right? Good.
+
+For the end one you'd want that right.
+
+Unknown Speaker  19:24  
+The links that will open
+
+Andrea Bredl  19:29  
+yeah that's cool. Yeah. Anything else that you guys need for Oh
+
+Zachariah James Turangi Potae  19:41  
+yeah, I think this sorted for now I guess. This is anything else? No way. Cool. Thank you for that.
+
+Unknown Speaker  19:53  
+All right, you guys have a great day.
+
+Zachariah James Turangi Potae  19:55  
+You too. Cheers. Okay. Um, I guess so.
+
+Andrea Bredl  20:04  
+Let me stop the recording. What should we continue recording for Crystal?
+
+Zachariah James Turangi Potae  20:12  
+Oh, yeah, we can continue recording. So this control or not control the cello. Okay, so I guess we just need to assign some colors to everyone.
+
+Andrea Bredl  20:26  
+Yeah. So we want to do we need to like actually do colors to each person, because then we can just assign it to the person and sorry, I'm in the Trello board twice now because I went back on the boat. But what do we want it to be according to like team roles?
+
+Zachariah James Turangi Potae  20:52  
+Um, I think I'd shave it to person just cuz I think George wants to see what each of us are doing like for the assessment
+
+Andrea Bredl  21:06  
+seems like the biggest thing is gonna be the wireframe. Because that's one of the big
+
+Zachariah James Turangi Potae  21:17  
+Yeah, yeah. And I guess for the initial one, we can get crystal to work on those, like some sketches. If she wants to
+
+Andrea Bredl  21:31  
+do you think is gonna destroy them anyways
+
+Zachariah James Turangi Potae  21:37  
+mean I just assume if we were going to allocate it to someone. I guess we can still discuss what we will want to
+
+Andrea Bredl  21:55  
+do ask crystal whether she wants to do the first one and then we'll need to run up the meeting of today anyways because to be honest, I didn't expect to watch anymore
+
+I started the video midway through but
+
+Zachariah James Turangi Potae  22:24  
+yeah, I saw the meeting notes recording as well. But yeah, I've got the meeting notes sorted.
+
+Andrea Bredl  22:34  
+Then we can put that into that. File register. Yep. Yeah. And
+
+I guess the logo will be easy enough. I just need to find that symbol. Somewhere else that was generated like that
+
+that's cool. If I tried to update the logo, then maybe ask Christian to do the basic wireframes. Then maybe one of you could do the file register. And then the other one, arranging for the risks. And what we then need to do is a Gantt chart as well.
+
+Zachariah James Turangi Potae  23:35  
+Yeah, I can. I can use I can do the document register. So I've got all the meeting minutes so I can put those on there.
+
+Andrea Bredl  23:50  
+That'll be awesome. And I guess we need to Trello
+
+Zachariah James Turangi Potae  23:58  
+Yes. Okay. So Gantt charts. We put it into doing still I guess we're still working on this. Budgets almost done.
+
+Andrea Bredl  24:24  
+Yeah, so we need to fund
+
+Zachariah James Turangi Potae  24:27  
+Yeah. Yeah, that's true super quick. budget budget
+
+Andrea Bredl  24:40  
+like works for you. At one point I sent you an invite for lonely
+
+Zachariah James Turangi Potae  24:55  
+Oh, yeah.
+
+Andrea Bredl  25:02  
+Is there anything that you want to add at the moment? So I think the Gantt chart is the other bigger thing. If we have to break it up into like, smaller tasks
+
+you want to try the agenda. You wanna try the Gantt chart and break it up? This he was kind of referring
+
+to then we can actually attribute those tasks to each other in the code as well at the moment
+
+Zachariah James Turangi Potae  25:41  
+sounds good. So document just meeting minutes.
+
+Andrea Bredl  25:58  
+I'll be the green one. I'm sorry
+
+the budget should we put it? I put it in tasting because I thought that we were gonna talk to them about it. So but like we do want to the tip the phones. That's good. You're also
+
+the risk rich stuff I think we just need someone who's kinda
+
+on their mind,
+
+Zachariah James Turangi Potae  26:50  
+Yeah, cuz that's pretty much like the first parts done now. It's just for later in projects, and things come up whatever.
+
+Andrea Bredl  27:00  
+I'm gonna put you there just because you don't really need to do it, but we'll do to get any ice but I'll give you an orange and color. Okay. Do you want a different color?
+
+Zachariah James Turangi Potae  27:16  
+I think he's got the purple
+
+Andrea Bredl  27:20  
+people you get
+
+my mind page so we just fake it. And put ourselves somewhere to so it's done.
+
+Zachariah James Turangi Potae  27:40  
+So what actually has to be to assist the Oh, okay. See, what do we put in for like senior developer G and developer and the like, are we putting our names in those or like, Yeah, okay.
+
+Andrea Bredl  27:59  
+It can be the senior. You can put me as the pista. But the problem is that we actually, I think, is almost do you want to share your screen for a moment? We'll just go through it. I think one of us needs to be the scrum project manager. And one of us needs to be we put our names a few times. Which you definitely don't do.
+
+Zachariah James Turangi Potae  28:35  
+Yeah, so like this one. I guess it's changing all the time.
+
+Andrea Bredl  28:40  
+Yeah, but for the sake of the exercise, you put one
+
+the time anyway.
+
+Zachariah James Turangi Potae  28:56  
+So she's doing wireframes Sure.
+
+Andrea Bredl  29:01  
+Yeah. And then you can just put me again as a business analyst.
+
+Zachariah James Turangi Potae  29:09  
+Finish up the Budget and Finance
+
+Alright, cool. So that's all done. I guess everyone can enter in the emails. Phone numbers. The hackers?
+
+Transcribed by https://otter.ai
