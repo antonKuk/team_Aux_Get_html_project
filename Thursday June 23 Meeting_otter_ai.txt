@@ -1,0 +1,622 @@
+Unknown Speaker  0:00  
+Like, like, like a topic
+
+Unknown Speaker  0:22  
+because I was just looking at the structure and it just didn't make sense to me how I wouldn't understand how I create users and I understand how I create agents but I didn't know how to link them up. I think I think the Steven key is not his first time doing jungle the key is not known. Doesn't mean no to everything is complete
+
+Unknown Speaker  0:49  
+and he I don't think you if you do
+
+Unknown Speaker  0:55  
+not win say that
+
+Unknown Speaker  1:04  
+did you solve all that sec
+
+Unknown Speaker  1:14  
+What did you do that? What was that what what happened
+
+Unknown Speaker  1:22  
+practical assessment. So working on Oh, yeah, I was I was a bit late.
+
+Unknown Speaker  1:28  
+I needed to get that one done. But yeah, he ended up getting it done mostly.
+
+Unknown Speaker  1:34  
+doesn't do what it's supposed to do.
+
+Unknown Speaker  1:37  
+I got everything done except for things the forms with the phone number and email validation.
+
+Unknown Speaker  1:46  
+I wasn't too sure how to do that part. But everything else I got got done shortly I think.
+
+Unknown Speaker  1:53  
+So you have that page. Where did you do the users and the agent?
+
+Unknown Speaker  1:59  
+Um, oh, that one took favor. That was like, but I got stuck on. I use a bit of code from I think we're going to Stephens thesis.
+
+Unknown Speaker  2:11  
+Was it called the Sun to the Earth like yeah, the blog one.
+
+Unknown Speaker  2:19  
+Check.
+
+Unknown Speaker  2:25  
+Yeah, that's definitely the hardest part.
+
+Unknown Speaker  2:30  
+I can show an example of
+
+Unknown Speaker  2:42  
+just asking crystal whether she's coming back because she was there before
+
+Unknown Speaker  2:50  
+I did for
+
+Unknown Speaker  3:01  
+this agent toes by Agent, you?
+
+Unknown Speaker  3:05  
+Yep.
+
+Unknown Speaker  3:10  
+But you kind of go to kind of get through users because
+
+Unknown Speaker  3:19  
+yeah, I did. This one
+
+Unknown Speaker  3:27  
+Yeah.
+
+Unknown Speaker  3:30  
+Yeah.
+
+Unknown Speaker  3:32  
+So would you just put it to itself you just use that drop down and then use it like that?
+
+Unknown Speaker  3:40  
+And then see whether it's the same name and then that's how it looks.
+
+Unknown Speaker  3:48  
+How you can get
+
+Unknown Speaker  3:53  
+you can get to the page.
+
+Unknown Speaker  3:57  
+And if you get to turn details
+
+Unknown Speaker  4:04  
+and the details you will get
+
+Unknown Speaker  4:09  
+through it in agent details and get agent tours and this link will lead to this
+
+Unknown Speaker  4:28  
+somehow. I find this assignment not very inspiring. It's really
+
+Unknown Speaker  4:36  
+really troubling.
+
+Unknown Speaker  4:42  
+Steven doesn't help I'm not gonna lie. His classes haven't been that interesting. But he just said the way he like presents the class. It's tough to get through.
+
+Unknown Speaker  4:52  
+But sometimes it's hard to even like I find it hard to even know what we're trying to achieve
+
+Unknown Speaker  5:03  
+anyways
+
+Unknown Speaker  5:06  
+I'm gonna invite crystal back so I'm just calling her on the thing.
+
+Unknown Speaker  5:14  
+Otherwise, so we just go through and
+
+Unknown Speaker  5:20  
+I mean, she was online just before could talk to you
+
+Unknown Speaker  5:31  
+guys want to say hello
+
+Unknown Speaker  5:38  
+I can hear you.
+
+Unknown Speaker  5:42  
+We can hear oh
+
+Unknown Speaker  5:48  
+hi. Hello. Hello. Hey.
+
+Unknown Speaker  6:05  
+Oh, you can do it
+
+Unknown Speaker  6:16  
+hi.
+
+Unknown Speaker  6:18  
+Finally I just don't want to hear you
+
+Unknown Speaker  6:29  
+so we go through it. I think Antonio made a bit of a list of what we need. Do we just click on live every document
+
+Unknown Speaker  6:46  
+they can do
+
+Unknown Speaker  6:50  
+I guess one of the things that we need to do is come up with these scenarios. Like into this one document. I kind of screenshot that, like the mitigation options.
+
+Unknown Speaker  7:05  
+So I just screenshotted what the other ones had done in the last one which is mitigation option one proposal complete original scope, but new deadline using additional staffing. And so we'd probably need one of those where we come up with the different budget and stuff and then the option of deliver half finished project complete design stage only and hand over to client.
+
+Unknown Speaker  7:37  
+So maybe we should do something like that as well.
+
+Unknown Speaker  7:42  
+Like, I think it'd be good for us to come up with like four options. That's what the other one said. And then then, like different people can work out the options maybe
+
+Unknown Speaker  7:58  
+because I think we don't even need to update the charts until we have an option that you chose, right?
+
+Unknown Speaker  8:12  
+Yes, that's correct.
+
+Unknown Speaker  8:14  
+You have to agree
+
+Unknown Speaker  8:23  
+on Monday. Do we only need to do the mitigation options?
+
+Unknown Speaker  8:27  
+Yeah, well.
+
+Unknown Speaker  8:30  
+I think you'll have enough time for for the rest.
+
+Unknown Speaker  8:37  
+So what kind of options should we do?
+
+Unknown Speaker  8:40  
+So the first one is obviously similar to what the other said like finish the project. Finished the app
+
+Unknown Speaker  8:54  
+just here's a picture
+
+Unknown Speaker  8:59  
+but I'll I'll share my screen Hold on a second.
+
+Unknown Speaker  9:15  
+So what I did and that's in here
+
+Unknown Speaker  9:28  
+so I just took those screenshots while he was going through it.
+
+Unknown Speaker  9:35  
+So that could be like we just wouldn't need to use other words, but basically it's the same right?
+
+Unknown Speaker  9:47  
+I mean, there we would, I don't know whether we would need to come up with what different gunshots
+
+Unknown Speaker  9:57  
+No, but I just thought it's gonna be different
+
+Unknown Speaker  10:05  
+and
+
+Unknown Speaker  10:09  
+so what they did is they do have the budget. Yeah, and then seeing your Gantt chart. So it seems like we do need to make new Gantt charts for each option and look at what people Yeah.
+
+Unknown Speaker  10:25  
+Yeah.
+
+Unknown Speaker  10:30  
+It's quite easy.
+
+Unknown Speaker  10:35  
+Because we're new clean. So we just changed the date practically on LinkedIn. The task date will be the same.
+
+Unknown Speaker  10:43  
+Similar.
+
+Unknown Speaker  10:45  
+So I think we just need to we need more of change. We put more.
+
+Unknown Speaker  10:52  
+Yeah.
+
+Unknown Speaker  10:54  
+Yes, I'm wondering whether we would need to go into a document and then for each scenario
+
+Unknown Speaker  11:12  
+come up with different costings and stuff so like
+
+Unknown Speaker  11:24  
+option one, and then we'll go over budget, option two where we just cut out some stuff depending on the options that we choose, and then I think we need to update the budget and even a Gantt chart for each of the options.
+
+Unknown Speaker  11:53  
+Total time as well.
+
+Unknown Speaker  11:55  
+In your table.
+
+Unknown Speaker  11:59  
+Yeah.
+
+Unknown Speaker  12:01  
+Am I looking at budget
+
+Unknown Speaker  12:09  
+I don't know exactly what you're coming across.
+
+Unknown Speaker  12:17  
+And if you put it into total cost, but if you put total primers for like for every for every person
+
+Unknown Speaker  12:28  
+Oh, you're a
+
+Unknown Speaker  12:32  
+total No, that's fine.
+
+Unknown Speaker  12:35  
+Change Yeah.
+
+Unknown Speaker  12:50  
+Now I don't know exactly how it works with the document register, or how it works with the updating and stuff. We would we can save all of this and then come up somewhere or how do we?
+
+Unknown Speaker  13:13  
+Oh, I've printed all of them to PDF like as version one.
+
+Unknown Speaker  13:19  
+So I've got PDF copies of all the sheets.
+
+Unknown Speaker  13:22  
+So I guess we can update it. Also, I'm not sure how we're going to do the version numbers.
+
+Unknown Speaker  13:29  
+I should at 1.00 for the first one not enough we're gonna get like 1.01 but I guess we can decide how we're going to determine that
+
+Unknown Speaker  13:43  
+because on the sheets, I've got like version numbers on the spreadsheet
+
+Unknown Speaker  13:51  
+just as a way of keeping record on the version.
+
+Unknown Speaker  13:55  
+Yeah, I think we need it on here as well.
+
+Unknown Speaker  14:00  
+So I guess for the new ones, we should go version 1.01. Is it alright?
+
+Unknown Speaker  14:09  
+One point
+
+Unknown Speaker  14:18  
+Yeah, but then the we just worked in in here again. Yep, same point. Yep. I would just change the version here.
+
+Unknown Speaker  14:29  
+Yes.
+
+Unknown Speaker  14:31  
+And so if we had like four different options within like my copies and place them next to each other
+
+Unknown Speaker  14:43  
+because we don't know what he's gonna decide for it, right.
+
+Unknown Speaker  14:47  
+Sure. Sure. Sure. So we'd have to have four budgets. Yeah, I mean, they would all be version 1.01 Because it's not decided and then once he makes a decision, it collapses back to one. I think we can match the version with the scenario and Scenario One is this budget scenario to that budget, you know, something like that? Yeah, we can.
+
+Unknown Speaker  15:15  
+Have your pacing on foot and just just budgeting a little bit, obviously.
+
+Unknown Speaker  15:22  
+Like different tabs and do budget one.
+
+Unknown Speaker  15:26  
+Yeah, just copy the tabs
+
+Unknown Speaker  15:35  
+Thank you, since you've already done PDFs of everything, so we can already like change everything.
+
+Unknown Speaker  15:42  
+Yeah, just double check. So upload them to the GitHub.
+
+Unknown Speaker  15:46  
+Double check, make sure I've done that.
+
+Unknown Speaker  15:57  
+So I've got the budget page, document register, Gantt chart, main sheet and risk register. But I think the Gantt chart, I've got the Gantt Chart tab but not the new Gantt chart so I'll have to add that. Yeah, I haven't done okay.
+
+Unknown Speaker  16:16  
+So I haven't got that saved
+
+Unknown Speaker  16:21  
+I think everything else is saved.
+
+Unknown Speaker  16:30  
+Options and then I guess one of each can work up each option. And then we can present that on Monday.
+
+Unknown Speaker  16:43  
+I thought that Monday was the second week after or Friday.
+
+Unknown Speaker  16:50  
+Yeah, but we need to have those options ready. Okay.
+
+Unknown Speaker  16:56  
+And then for the presentation, we need a PowerPoint. Yep.
+
+Unknown Speaker  17:06  
+So let me I'll write in here and I'll just put the first option.
+
+Unknown Speaker  17:15  
+More budget, more money.
+
+Unknown Speaker  17:20  
+More regionalized program
+
+Unknown Speaker  17:28  
+less time
+
+Unknown Speaker  17:31  
+than second option.
+
+Unknown Speaker  17:39  
+Only. Up to the click dummy.
+
+Unknown Speaker  17:46  
+Not the actual
+
+Unknown Speaker  17:56  
+option. Third option
+
+Unknown Speaker  18:09  
+to start design stage only. Natural design
+
+Unknown Speaker  18:20  
+design stage was our
+
+Unknown Speaker  18:25  
+first basic, very basic and we think
+
+Unknown Speaker  18:36  
+that's more money
+
+Unknown Speaker  18:43  
+for example, it would not be
+
+Unknown Speaker  18:48  
+interactive like just coding.
+
+Unknown Speaker  18:53  
+Oops, sorry.
+
+Unknown Speaker  18:56  
+You gone through coding as such.
+
+Unknown Speaker  19:01  
+Does that make sense?
+
+Unknown Speaker  19:05  
+So maybe it just gives you documentation but it doesn't give you
+
+Unknown Speaker  19:13  
+so it's basically only
+
+Unknown Speaker  19:18  
+a website? Blog.
+
+Unknown Speaker  19:22  
+Yeah.
+
+Unknown Speaker  19:31  
+Not not deploy.
+
+Unknown Speaker  19:33  
+Deploy. Yeah.
+
+Unknown Speaker  19:36  
+No testing, no deployment just to set a gap or do we still have testing in the first option?
+
+Unknown Speaker  19:42  
+Well, it's supposed to be presented right. So with that could have been presented.
+
+Unknown Speaker  19:51  
+Testing, then no.
+
+Unknown Speaker  19:55  
+Maybe there's something else
+
+Unknown Speaker  20:04  
+sorry. Do they call that up? By me ever since.
+
+Unknown Speaker  20:12  
+I thought that's the click domains.
+
+Unknown Speaker  20:15  
+Okay, different. So I thought maybe because the thing that he wants is kind of interactive and stuff. And so we could just like it with like different takes and no.
+
+Unknown Speaker  20:30  
+Defense. It ultimately depends on what option we're going for right.
+
+Unknown Speaker  20:35  
+Now it depends on what option he goes for.
+
+Unknown Speaker  20:40  
+So we need to come up with three options.
+
+Unknown Speaker  20:46  
+So the fourth option is
+
+Unknown Speaker  20:52  
+is the lightweight
+
+Unknown Speaker  20:57  
+awesome. Sorry. Yep, go ahead.
+
+Unknown Speaker  21:01  
+Is continue is agreed in the beginning?
+
+Unknown Speaker  21:09  
+No change.
+
+Unknown Speaker  21:11  
+But the third option, so that's a clicked on me. The second option then we need something else for the third one.
+
+Unknown Speaker  21:21  
+So could say less functionality.
+
+Unknown Speaker  21:24  
+We could do like the app has functioning like as we planned but with less modules. But we'll just have like a couple demo modules.
+
+Unknown Speaker  21:36  
+Maybe?
+
+Unknown Speaker  21:37  
+Yeah. Instead of teaching everything about a specific language. We can just have like a couple of example. Pages. Maybe?
+
+Unknown Speaker  21:46  
+Yep, yeah.
+
+Unknown Speaker  21:51  
+Yep.
+
+Unknown Speaker  21:55  
+mean more money for programmers?
+
+Unknown Speaker  21:59  
+Yep.
+
+Unknown Speaker  22:01  
+Less time
+
+Unknown Speaker  22:05  
+does that make sense for everyone?
+
+Unknown Speaker  22:09  
+Yep, it's good.
+
+Unknown Speaker  22:14  
+At function that was last module and feature but but you need a more programmer.
+
+Unknown Speaker  22:22  
+Small just see at the meet the deadline.
+
+Unknown Speaker  22:27  
+I see what it means. So then maybe you should write it down like a tight like less time or like a tight deadline or something or whatever. You want it Yep.
+
+Unknown Speaker  22:38  
+Cool.
+
+Unknown Speaker  22:43  
+Cool.
+
+Unknown Speaker  22:45  
+Yeah.
+
+Unknown Speaker  22:47  
+So who wants to do what?
+
+Unknown Speaker  22:49  
+I don't think it's much to do but we need to adjust all the budgets and all the Gantt charts accordingly. I'll take number four.
+
+Unknown Speaker  23:01  
+I guess who was taking them before they can set up the PowerPoint
+
+Unknown Speaker  23:14  
+Yeah.
+
+Unknown Speaker  23:17  
+Oh
+
+Unknown Speaker  23:22  
+oh, this one I just worked on the Gantt chart budget, right?
+
+Unknown Speaker  23:25  
+Yeah, yeah.
+
+Unknown Speaker  23:28  
+Yeah, so with the gunshot you'd like in your case, you delete all kinds of tasks because it's just clicked on me but the time and you got just the timeline so that it's ending wherever he stood.
+
+Unknown Speaker  23:45  
+And then we just need to fill out that form thing. I think it gave us that form.
+
+Unknown Speaker  23:50  
+Otherwise, we just need to find what
+
+Unknown Speaker  23:56  
+do we have one of those change
+
+Unknown Speaker  24:06  
+like I mean, one of the things like you.
+
+Unknown Speaker  24:20  
+Go on.
+
+Unknown Speaker  24:40  
+I think
+
+Unknown Speaker  24:52  
+when is the new deadline
+
+Unknown Speaker  25:02  
+sorry
+
+Unknown Speaker  25:06  
+from 31st of October to 10th of August so we need to update that as well.
+
+Unknown Speaker  25:21  
+Is that off? Sorry. I kind of got thrown
+
+Unknown Speaker  25:28  
+tinsel just the sketch I'll be quite big if it's got all the day's individual
+
+Unknown Speaker  25:41  
+cool so I'm going to coffee
+
+Unknown Speaker  25:48  
+create copy
+
+Unknown Speaker  25:54  
+create copy?
+
+Unknown Speaker  26:48  
+Cool, so I'll get working on this tonight
+
+Unknown Speaker  26:59  
+well, thank you everyone. I think that's it. What do you guys want to talk about anything else?
+
+Unknown Speaker  27:06  
+The PowerPoint.
+
+Unknown Speaker  27:10  
+For next week, next week. Okay, cool.
+
+Unknown Speaker  27:17  
+Yeah.
+
+Unknown Speaker  27:19  
+Told us which scenario is gonna take.
+
+Unknown Speaker  27:23  
+Shall we have a meeting on Monday afternoon or Tuesday to talk about it? After we have a meeting? Okay. We can do that right after right. Oh yeah, we should have time because the other lecture starts later anyway.
+
+Unknown Speaker  27:42  
+Yeah.
+
+Unknown Speaker  27:43  
+Okay, let's do that then on Monday and then we can sort through the PowerPoint. So for as far as I understand now, so opposite so I didn't do the option for my option to update a Gantt chart as well. I mean, to do a contract as well as the budget plan.
+
+Unknown Speaker  28:02  
+Okay, cool.
+
+Unknown Speaker  28:09  
+Thank you, thank you. See ya have a good weekend.
+
+Unknown Speaker  28:13  
+See ya say
+
+Unknown Speaker  28:18  
+stop.
+
+Transcribed by https://otter.ai
