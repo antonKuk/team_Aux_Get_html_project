@@ -1,0 +1,133 @@
+Unknown Speaker  1:35  
+so sorry I'm just starting up my headphones just give me a second you can open the document first Hi, can you guys hear me? Yep. So agenda to share my screen let me open up the document talk about options together
+
+Unknown Speaker  2:42  
+then it's up to the customer, which one to pick and they
+
+Unknown Speaker  2:47  
+will go for it anything else I'm missing? Okay so JKC my screen now. Okay, so for the options, we have four options so the first option is offset. Okay, cool. I'll leave the screen on. Yes.
+
+Unknown Speaker  3:16  
+Yeah. Yeah. So, summary but our estimate would be if we were timelines for the open in those hours even gonna be more than 10 hours to the other. That's gonna be esoteric. We're not gonna be able to hold up the lines like that. So tiring. But we also think that thought of why would you even think more so that would all come down to while carrying on with the same outcome if the second option
+
+Unknown Speaker  5:18  
+so the second option is we decided to just we will just provide what we call it dummy which is the prototype mainly for like 40 Interactive wireframes. So I have a check for that. So it will be of course a lot less cost for it because it will not involve any developer maybe will be UX designer which I have increased the elbows from 60 to 80. And designed to end for that what I mean by end product will be just the wireframe effect, but I will go into detail in the next minute. So right now I have I've also reduced the hour for the project manager coordinator which is eight hours I believe we meet up with the clients three to four times to finalize in the beginning and at the end where we present the product and in the beginning to form as a communication point to between the client and the designer like between one to two hour each time so far more like what they really want to create a prototype. And the business analyst will kick in as well for any leader for the project or enhance or work on the whole project flow to assist the project manager finance as well because we need to work out the costs. Of course we need to be informed within how much it's going to cost for the whole pre planning process to the end prototype. product so that would work out to be the total budget is 5000 something but Haifa of course that work out all the hours will go will be we won't spend over budget we actually have couple of punches spare so my detailed plan for the timeline which will be this one the Gantt chart to it will be fairly straightforward. So it will be first we have the project's first job after we met with the client the 10 of June to 20 of June within 10 days and that will be the start and end and the fact Mark which is the food design, but not interactive, which I call it the second draft. We'll be looking at end of June to early July, and harbor the end interactive prototype will be done between June back between the mid June to end of July to end of July and also the refinement that will be which is after you present the product of course you will have allowing the customer to present the customer the way allowing any five minute judgment by by the customer so the client then then given enough sufficient time for us to reject it. So that will be in a week on top of it. So that that will be our timeline for the Gantt chart. That's it What do you mean by 105? will be actually we will you will only spend 5000 that because it's the option to so it'd be we are not actually making the product we are just giving you like like like a figma interactive wireframes or we're not actually involving any development process. So that will just just just repeat the pre planning. So, that will be the then move on to sec for the
+
+Zachariah James Turangi Potae  8:52  
+show. So the third option. The idea here is that we can make the app but we will only have maybe one module on HTML. We won't have like everything to do with HTML. We could edit later but I think just getting like the fundamental like app running all the time. Just like the like the basic stuff like having we want to have like everything to do with HTML. So to meet this, within like the deadline, I figured we would have a couple more developers or intermediate developers to help. I haven't quite finished this yet, but I would get a couple more developers to help us to meet the deadlines. As far as software and hardware goes, it should all be the same. It still needs to calculate the cost with us but the budget should the phone was not working for some reason. Um probably 85k to 90k of the increase on our yeah This
+
+includes this hardware as well. Yeah, it's definitely an increase in the original budget of course I'm not sure why this
+
+an idea for now. I'm not sure why it's not working. But um so yeah, just be getting more stuff and just tell me deadlines. That's pretty much that option
+
+Unknown Speaker  11:09  
+the HTML Yep. Just
+
+Zachariah James Turangi Potae  11:16  
+yeah, basically HTML. The the app you'd have like the base like the test, like being able to test the code, but you don't have like a whole library of information on HTML in the app. It'd be like very limited, like you might have an example page. But of course, we would have to introduce more pages and information on like HTML. As we go forward with the development videos, notice no videos nothing.
+
+Unknown Speaker  11:54  
+Documentation so would be very simple.
+
+Zachariah James Turangi Potae  12:02  
+It would be very, very basic. very bare bones Yes.
+
+It's Anton's.
+
+Unknown Speaker  12:37  
+There wouldn't be so that would mean
+
+Zachariah James Turangi Potae  12:42  
+we wouldn't meet the deadline for the tech week. Either wouldn't be more funding for more funding say that. Sorry, you will need it
+
+Unknown Speaker  14:07  
+bye You're really good. At what you say you're original right. Today's date again change. Trying to make sure
+
+Zachariah James Turangi Potae  15:18  
+I don't understand the
+
+Unknown Speaker  15:55  
+change hollow chain and then also to say the same thing we all want to be safe and stored somewhere. So we cool and the whole thing
+
+Unknown Speaker  17:57  
+on Friday we've gone into effect so, I thought I thought it's on Friday
+
+Unknown Speaker  18:17  
+not this Friday is the presentation Friday
+
+Unknown Speaker  18:41  
+Monday to Monday. You will pay by Friday Mostly now looking at approaching what to do you yep what I do
+
+Zachariah James Turangi Potae  22:34  
+Think it was George Yeah. Sorry Jordan.
+
+Thank you very much. Sure
+
+Unknown Speaker  23:54  
+yeah, let's stay here I want to do have some individual imagining.
+
+Zachariah James Turangi Potae  24:09  
+I think it's more to do with assessing teammates it's like a evaluation form. Isn't it?
+
+Think he's mentioned and that's
+
+Unknown Speaker  24:53  
+because you know how to get different changes
+
+Zachariah James Turangi Potae  25:02  
+it looks like it's it looks like it's an ESA maybe something Yeah. Yeah.
+
+mentioned it's a shame it's the same Judy. She's the other one because I think he mentioned everything's due at the end of the course.
+
+Unknown Speaker  25:45  
+The whole thing. Yeah, I guess clarify.
+
+Unknown Speaker  25:52  
+Because like, I know that for the project itself, they do have an individual component, but it's more of a reflective journal like what sec. upset at that point in the project before the assessment seems like
+
+Zachariah James Turangi Potae  26:09  
+outside Yeah, yeah. Yeah, I think it's something different. I shouldn't we're meant to be doing after this perfect storm. I'm not sure.
+
+Unknown Speaker  26:19  
+Let's just leave it. So anyway, so anything I will put our I know that there's some top 10 thing for me, which is the market research. I will get on my phone or find it out edit into the document as long as there anything else. Just let me know
+
+Unknown Speaker  26:37  
+what the thing is. It's actually never shown on the web. I don't know whether it was at one point. But that's never come up. So I'm not sure why
+
+Unknown Speaker  26:58  
+we can grip it again. Or maybe like or anytime because we are here we can actually rip you apart. What do you think?
+
+Unknown Speaker  27:10  
+I don't think the other one
+
+Zachariah James Turangi Potae  27:12  
+could even just message them because it sounds like his engineer. It wasn't working well.
+
+Unknown Speaker  27:20  
+Maybe you can. Slightly better. I'm asking him that you guys continue like discussing are working
+
+Unknown Speaker  27:36  
+great. I think we need to extend it. Like I tried. A there's something really wrong with the budget and I'm not sure why it can't make any sense at the moment. It was do and I started working on mine when I started to it. It didn't work anymore. And I can see that sometimes with your budget.
+
+Unknown Speaker  27:59  
+I'm not sure why.
+
+Unknown Speaker  28:02  
+Maybe Microsoft bug because I tried to do it in different cells as well. It seems to me that it's one thing when looking at and maybe maybe I'm wrong so feel free to correct me. Gonna open it and then briefly one of the things Oh, Hi, George.
+
+Unknown Speaker  29:10  
+Yeah, yeah. Hi, sorry. I just want to quickly check with you that without any money.
+
+Unknown Speaker  29:27  
+Okay, so we have done a lot of things that we had never had to show when
+
+Unknown Speaker  29:34  
+we've been interactive, or just the normal ones for next week's presentation during
+
+Unknown Speaker  29:40  
+normal ones right but you still have to show me what you're you're still gonna have to show me roughly what the website will look like for the majority as
+
+Unknown Speaker  29:51  
+required. Oh, yeah, sure. I did here quickly. Are you? A second Can everyone see my screen? Yeah. Yep, yep. So when, so that that will be that will be the fun of the app. And that will be the selection providing a coaching to learn. Okay,
+
+Transcribed by https://otter.ai
